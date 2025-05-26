@@ -30,3 +30,16 @@ Pour ce challenge, nous allons créer une base de données `50_days_sql` dans la
 ```sql
 CREATE DATABASE 50_days_sql;
 ```
+## Conseil 🧠:
+````
+- ⚠️ Ne consultez pas les réponses directement : essayez de répondre à la question par vous-même
+
+- ♻️ Ensuite, comparez, corrigez et réessayez
+
+- 🤖 Vous pouvez aussi copier la question et demander à ChatGPT de vous poser d'autres questions similaires afin de travailler sur vos lacunes
+
+- 🤝 Si vous ne comprenez pas une réponse, demandez à ChatGPT de vous l'expliquer étape par étape
+````
+
+## Feedback 💪🏽: 
+- Si vous constatez une erreur quelque part, n'hésitez pas à m'envoyer un petit message  
