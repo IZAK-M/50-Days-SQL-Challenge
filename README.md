@@ -3,7 +3,7 @@
 ## Présentation :
 
 Ce dépôt contient mes réponses au challenge 50_days_sql_challenge de la chaîne YouTube `ZERO ANALYST` 
-- **YouTube** : [Lien de la chaine youtube ZERO ANALYST](https://www.instagram.com/zero_analyst/)
+- **YouTube** : [Lien de la chaine youtube ZERO ANALYST]([https://www.instagram.com/zero_analyst/](https://www.youtube.com/@zero_analyst))
 - **LinkedIn** [Son LinKedin](https://www.linkedin.com/in/najirr)
 
 Ansi je vais relever ce défi de 50 jours , chaque Jour correspondra avec un fichier `.sql` 
